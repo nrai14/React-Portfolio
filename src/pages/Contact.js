@@ -7,3 +7,13 @@ Linkedin
 Contact form for handling events
 
 */ 
+
+function Contact () {
+    return 
+    <>
+    
+    
+    </>
+}
+
+export default Contact; 
