@@ -6,3 +6,14 @@ Router props to render right project based on user selection
 
 
 */
+
+function Project() {
+    return (
+        <>
+
+
+        </>
+    );
+}
+
+export default Project; 
