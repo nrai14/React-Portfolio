@@ -1,0 +1,8 @@
+/*
+
+Reusable component that injests JSON data as props and renders a single isntance for each project 
+Router props to render right project based on user selection 
+
+
+
+*/
