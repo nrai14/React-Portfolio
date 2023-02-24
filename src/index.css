@@ -21,3 +21,11 @@ code {
   gap: 50px;
   justify-content: center;
 }
+
+/* Buttons */
+
+button {
+  height: 20px;
+  color: aquamarine;
+  width: 40px;
+}
